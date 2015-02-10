@@ -206,7 +206,7 @@ img {
   background-color: #001f3f !important;
 }
 .bg-teal {
-  background-color: #39cccc !important;
+  background-color: #7145BD !important;
 }
 .bg-olive {
   background-color: #3d9970 !important;
@@ -354,8 +354,8 @@ table.text-center th {
 Gradient Background colors
 */
 .bg-teal-gradient {
-  background: #39cccc !important;
-  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #39cccc), color-stop(1, #7adddd)) !important;
+  background: #5939CC !important;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #8B39CC), color-stop(1, #807ADD)) !important;
   background: -ms-linear-gradient(bottom, #39cccc, #7adddd) !important;
   background: -moz-linear-gradient(center bottom, #39cccc 0%, #7adddd 100%) !important;
   background: -o-linear-gradient(#7adddd, #39cccc) !important;
@@ -1270,8 +1270,9 @@ body > .header .logo .icon {
   display: block;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
-  border-radius: 2px;
+  border-radius: 9px;
   margin-bottom: 15px;
+  box-shadow: 0px 1px 3px rgba(181, 198, 203, 0.99);
 }
 .small-box > .inner {
   padding: 10px;
@@ -1279,12 +1280,13 @@ body > .header .logo .icon {
 .small-box > .small-box-footer {
   position: relative;
   text-align: center;
-  padding: 3px 0;
+  padding: 20px 0;
   color: #fff;
   color: rgba(255, 255, 255, 0.8);
   display: block;
   z-index: 10;
   background: rgba(0, 0, 0, 0.1);
+  border-radius: 9px;
   text-decoration: none;
 }
 .small-box > .small-box-footer:hover {
