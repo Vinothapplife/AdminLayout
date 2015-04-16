@@ -1,0 +1,371 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="480px" height="240px" viewBox="0 0 480 240"><g  transform="translate(12, 12)">
+<rect data-color="color-2" x="7" y="6" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="10" height="6" stroke-linejoin="square"/>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M20,15H4l-2.3,4.6
+	C1.4,20.2,1.9,21,2.6,21h18.8c0.7,0,1.2-0.8,0.9-1.4L20,15z" stroke-linejoin="square"/>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M20,15V4c0-0.6-0.4-1-1-1H5
+	C4.4,3,4,3.4,4,4v11" stroke-linejoin="square"/>
+</g><g  transform="translate(60, 12)">
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="15" y1="19" x2="15" y2="23" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="9" y1="23" x2="9" y2="19" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="6" y1="23" x2="18" y2="23" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="11" y1="4" x2="13" y2="4" stroke-linejoin="square"/>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M21,19H3c-1.1,0-2-0.9-2-2
+	V3c0-1.1,0.9-2,2-2h18c1.1,0,2,0.9,2,2v14C23,18.1,22.1,19,21,19z" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="1" y1="15" x2="23" y2="15" stroke-linejoin="square"/>
+</g><g  transform="translate(108, 12)">
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="3" y1="21" x2="9" y2="21" stroke-linejoin="square"/>
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	9,17 1,17 1,3 9,3 " stroke-linejoin="square"/>
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	9,14 4,14 4,6 9,6 " stroke-linejoin="square"/>
+<rect x="9" y="1" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="14" height="22" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="14" y1="6" x2="18" y2="6" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="14" y1="10" x2="18" y2="10" stroke-linejoin="square"/>
+<circle fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="16" cy="16" r="2" stroke-linejoin="square"/>
+</g><g  transform="translate(156, 12)">
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="6" y1="21" x2="18" y2="21" stroke-linejoin="square"/>
+<rect x="1" y="3" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="22" height="14" stroke-linejoin="square"/>
+<polygon data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	10,7 14,10 10,13 " stroke-linejoin="square"/>
+</g><g  transform="translate(204, 12)">
+<path data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M14,1L14,1
+	c2.8,0,5,2.2,5,5v0" stroke-linejoin="square"/>
+<path data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M5,18L5,18
+	c0,2.8,2.2,5,5,5h0" stroke-linejoin="square"/>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M8,14H3c-1.1,0-2-0.9-2-2V3
+	c0-1.1,0.9-2,2-2h5c1.1,0,2,0.9,2,2v9C10,13.1,9.1,14,8,14z" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="1" y1="10" x2="10" y2="10" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="1" y1="4" x2="10" y2="4" stroke-linejoin="square"/>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M21,23h-5c-1.1,0-2-0.9-2-2
+	v-9c0-1.1,0.9-2,2-2h5c1.1,0,2,0.9,2,2v9C23,22.1,22.1,23,21,23z" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="14" y1="19" x2="23" y2="19" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="14" y1="13" x2="23" y2="13" stroke-linejoin="square"/>
+</g><g  transform="translate(252, 12)">
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	5,6 5,1 19,1 19,6 " stroke-linejoin="square"/>
+<polyline fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="5,18 1,18 1,6 
+	23,6 23,18 19,18 " stroke-linejoin="square"/>
+<rect data-color="color-2" x="5" y="12" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="14" height="11" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="9" y1="16" x2="15" y2="16" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="9" y1="19" x2="15" y2="19" stroke-linejoin="square"/>
+</g><g  transform="translate(300, 12)">
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="12" y1="20" x2="12" y2="18" stroke-linejoin="square"/>
+<path data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M16.6,4H20c1.7,0,3,1.3,3,3v13
+	c0,1.7-1.3,3-3,3H4c-1.7,0-3-1.3-3-3V7c0-1.7,1.3-3,3-3h3.4" stroke-linejoin="square" stroke-linecap="butt"/>
+<polyline data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" points="16.8,7 20,7 20,20 4,20 4,7 
+	7.2,7 " stroke-linejoin="square" stroke-linecap="butt"/>
+<line data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" x1="4" y1="20" x2="10" y2="11.9" stroke-linejoin="square" stroke-linecap="butt"/>
+<line data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" x1="20" y1="20" x2="14" y2="11.9" stroke-linejoin="square" stroke-linecap="butt"/>
+<path data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M17,6
+	c0,3.1-5,8.1-5,8.1S7,9.1,7,6c0-3.2,2.6-5,5-5S17,2.8,17,6z" stroke-linejoin="square"/>
+<circle data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="12" cy="6" r="1" stroke-linejoin="square"/>
+</g><g  transform="translate(348, 12)">
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M17,21H7c-3.3,0-6-2.7-6-6
+	v0c0-3.3,2.7-6,6-6h10c3.3,0,6,2.7,6,6v0C23,18.3,20.3,21,17,21z" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="7" y1="13" x2="7" y2="17" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="5" y1="15" x2="9" y2="15" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="16" y1="14" x2="17" y2="13" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="18" y1="17" x2="19" y2="16" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="12" y1="5" x2="12" y2="2" stroke-linejoin="square"/>
+</g><g  transform="translate(396, 12)">
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="12" y1="6" x2="12" y2="3" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="14" y1="17" x2="10" y2="17" stroke-linejoin="square"/>
+<path data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M6.8,18.6l-3.7,2.8
+	c-0.7,0.6-1.8-0.1-1.6-1l2-9.8C3.8,9.1,5.1,8,6.7,8h0c0.9,0,1.7,0.3,2.3,0.9L10,10h4l1.1-1.1C15.7,8.3,16.5,8,17.3,8h0
+	c1.5,0,2.9,1.1,3.2,2.6l2,9.8c0.2,0.9-0.8,1.5-1.6,1l-3.7-2.8" stroke-linejoin="square" stroke-linecap="butt"/>
+<circle data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="8" cy="17" r="2" stroke-linejoin="square"/>
+<circle data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="16" cy="17" r="2" stroke-linejoin="square"/>
+</g><g  transform="translate(444, 12)">
+<line data-cap="butt" data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" x1="4" y1="8" x2="8" y2="4" stroke-linejoin="square" stroke-linecap="butt"/>
+<line data-cap="butt" data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" x1="21" y1="17" x2="17" y2="21" stroke-linejoin="square" stroke-linecap="butt"/>
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	12.5,16.5 17,21 22,22 21,17 16.5,12.5 " stroke-linejoin="square"/>
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	11.5,7.5 6,2 2,6 7.5,11.5 " stroke-linejoin="square"/>
+<rect x="8.5" y="1.4" transform="matrix(0.7071 0.7071 -0.7071 0.7071 12 -4.9706)" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="7.1" height="21.2" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="11" y1="8" x2="12" y2="9" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="14" y1="5" x2="16" y2="7" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="8" y1="11" x2="10" y2="13" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="5" y1="14" x2="6" y2="15" stroke-linejoin="square"/>
+</g><g  transform="translate(12, 60)">
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="5" y1="6" x2="10" y2="6" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="14" y1="6" x2="19" y2="6" stroke-linejoin="square"/>
+<path data-cap="butt" data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M14,7.2c4,0.9,7,4.5,7,8.8" stroke-linejoin="square" stroke-linecap="butt"/>
+<path data-cap="butt" data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M3,16c0-4.3,3-7.9,7-8.8" stroke-linejoin="square" stroke-linecap="butt"/>
+<circle fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="3" cy="6" r="2" stroke-linejoin="square"/>
+<circle fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="21" cy="6" r="2" stroke-linejoin="square"/>
+<rect x="10" y="4" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="4" height="4" stroke-linejoin="square"/>
+<rect x="1" y="16" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="4" height="4" stroke-linejoin="square"/>
+<rect x="19" y="16" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="4" height="4" stroke-linejoin="square"/>
+</g><g  transform="translate(60, 60)">
+<path data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M4.4,15.2
+	c1.2-1.2,3.1-1.2,4.2,0s1.2,3.1,0,4.2C7.5,20.6,3,20.8,3,20.8S3.2,16.3,4.4,15.2z" stroke-linejoin="square"/>
+<line data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" x1="17" y1="4" x2="20" y2="7" stroke-linejoin="square" stroke-linecap="butt"/>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M12,15l-3-3l9.5-9.5
+	c0.8-0.8,2.2-0.8,3,0l0,0c0.8,0.8,0.8,2.2,0,3L12,15z" stroke-linejoin="square"/>
+</g><g  transform="translate(108, 60)">
+<polygon fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="1,1 1,7 2,7 4,4 
+	10,4 10,20 7,22 7,23 17,23 17,22 14,20 14,4 20,4 22,7 23,7 23,1 " stroke-linejoin="square"/>
+</g><g  transform="translate(156, 60)">
+<polyline data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" points="12,6 4,9 2,22 15,20 18,12 
+	" stroke-linejoin="square" stroke-linecap="butt"/>
+<line data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" x1="2" y1="22" x2="8.6" y2="15.4" stroke-linejoin="square" stroke-linecap="butt"/>
+<circle fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="10" cy="14" r="2" stroke-linejoin="square"/>
+<rect data-color="color-2" x="8.9" y="6.6" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 21.6569 24.9706)" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="14.1" height="2.8" stroke-linejoin="square"/>
+</g><g  transform="translate(204, 60)">
+<path data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M2.4,12L13,19.8
+	c0.8,0.8,3.2-0.3,5.3-2.5s3.3-4.5,2.5-5.3L13,1.4" stroke-linejoin="square" stroke-linecap="butt"/>
+<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -2.4879 7.4205)" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="7.7" cy="6.7" rx="7.5" ry="3" stroke-linejoin="square"/>
+<path data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M1,20
+	c0-1.1,2-4,2-4s2,2.9,2,4s-0.9,2-2,2S1,21.1,1,20z" stroke-linejoin="square"/>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M12,11h4c2.2,0,4-1.8,4-4v0
+	c0-2.2-1.8-4-4-4h-1.8" stroke-linejoin="square"/>
+</g><g  transform="translate(252, 60)">
+<path data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M14,7l-8,8c0,0-0.6,2-1,2
+	c-1.1,0-2,0.9-2,2c0,1.1,0.9,2,2,2s2-0.9,2-2c0-0.4,2-1,2-1l8-8" stroke-linejoin="square" stroke-linecap="butt"/>
+<path data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M20,7
+	l1.5-1.5c0.8-0.8,0.8-2.2,0-3l0,0c-0.8-0.8-2.2-0.8-3,0L17,4l-2-2l-3,3l7,7l3-3L20,7z" stroke-linejoin="square"/>
+</g><g  transform="translate(300, 60)">
+<path data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M18,8v13c0,1.1-0.9,2-2,2H6
+	c-1.1,0-2-0.9-2-2V3c0-1.1,0.9-2,2-2h10c1.1,0,2,0.9,2,2v1" stroke-linejoin="square" stroke-linecap="butt"/>
+<circle fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="11" cy="19" r="1" stroke-linejoin="square"/>
+<line data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" x1="4" y1="5" x2="17" y2="5" stroke-linejoin="square" stroke-linecap="butt"/>
+<line data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" x1="15" y1="15" x2="18" y2="15" stroke-linejoin="square" stroke-linecap="butt"/>
+<line data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" x1="4" y1="15" x2="9" y2="15" stroke-linejoin="square" stroke-linecap="butt"/>
+<path data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M15,11l-2-2
+	l7-7c0.6-0.6,1.4-0.6,2,0l0,0c0.6,0.6,0.6,1.4,0,2L15,11z" stroke-linejoin="square"/>
+<path data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M9.7,11.5
+	c0.8-0.8,2-0.8,2.8,0s0.8,2,0,2.8C11.8,15.1,9,15,9,15S8.9,12.2,9.7,11.5z" stroke-linejoin="square"/>
+</g><g  transform="translate(348, 60)">
+<polyline data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" points="7,5 8,1 16,1 17,5 " stroke-linejoin="square" stroke-linecap="butt"/>
+<polyline data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" points="17,19 16,23 8,23 7,19 " stroke-linejoin="square" stroke-linecap="butt"/>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M17,19H7c-1.1,0-2-0.9-2-2
+	V7c0-1.1,0.9-2,2-2h10c1.1,0,2,0.9,2,2v10C19,18.1,18.1,19,17,19z" stroke-linejoin="square"/>
+<rect x="19" y="10" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="2" height="4" stroke-linejoin="square"/>
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	10,10 8,12 10,14 " stroke-linejoin="square"/>
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	14,10 16,12 14,14 " stroke-linejoin="square"/>
+</g><g  transform="translate(396, 60)">
+<path data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M3.5,1" stroke-linejoin="square" stroke-linecap="butt"/>
+<path data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M20,4V3.5C20,2.1,18.9,1,17.5,1h-14
+	C4.9,1,6,2.1,6,3.5v17C6,21.9,7.1,23,8.5,23H20" stroke-linejoin="square" stroke-linecap="butt"/>
+<line data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" x1="20" y1="20" x2="20" y2="8" stroke-linejoin="square" stroke-linecap="butt"/>
+<path data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M16,12l-2-2
+	l6-6c0.6-0.6,1.4-0.6,2,0l0,0c0.6,0.6,0.6,1.4,0,2L16,12z" stroke-linejoin="square"/>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M11,20v0.5
+	c0,2.2-2.5,2.5-2.5,2.5s11.8,0,12,0c1.4,0,2.5-1.1,2.5-2.5V20H11z" stroke-linejoin="square"/>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M6,4H1V3.5
+	C1,2.1,2.1,1,3.5,1h0C4.9,1,6,2.1,6,3.5V4z" stroke-linejoin="square"/>
+<path data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M10.7,12.5
+	c0.8-0.8,2-0.8,2.8,0s0.8,2,0,2.8C12.8,16.1,10,16,10,16S9.9,13.2,10.7,12.5z" stroke-linejoin="square"/>
+</g><g  transform="translate(444, 60)">
+<path data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M6.5,1h11C20,1,22,3,22,5.5v0
+	C22,8,20,10,17.5,10h-11" stroke-linejoin="square" stroke-linecap="butt"/>
+<circle data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="6.5" cy="5.5" r="4.5" stroke-linejoin="square"/>
+<path data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M17.5,23h-11C4,23,2,21,2,18.5v0
+	C2,16,4,14,6.5,14h11" stroke-linejoin="square" stroke-linecap="butt"/>
+<circle data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="17.5" cy="18.5" r="4.5" stroke-linejoin="square"/>
+</g><g  transform="translate(12, 108)">
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="11" y1="4" x2="23" y2="4" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="1" y1="4" x2="4" y2="4" stroke-linejoin="square"/>
+<rect x="4" y="1" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="4" height="6" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="21" y1="12" x2="23" y2="12" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="1" y1="12" x2="14" y2="12" stroke-linejoin="square"/>
+<rect data-color="color-2" x="14" y="9" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="4" height="6" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="11" y1="20" x2="23" y2="20" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="1" y1="20" x2="4" y2="20" stroke-linejoin="square"/>
+<rect x="4" y="17" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="4" height="6" stroke-linejoin="square"/>
+</g><g  transform="translate(60, 108)">
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="13" y1="4" x2="23" y2="4" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="1" y1="4" x2="4" y2="4" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="21" y1="12" x2="23" y2="12" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="1" y1="12" x2="12" y2="12" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="13" y1="20" x2="23" y2="20" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="1" y1="20" x2="4" y2="20" stroke-linejoin="square"/>
+<circle fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="7" cy="4" r="3" stroke-linejoin="square"/>
+<circle data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="15" cy="12" r="3" stroke-linejoin="square"/>
+<circle fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="7" cy="20" r="3" stroke-linejoin="square"/>
+</g><g  transform="translate(108, 108)">
+<path data-cap="butt" data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M6.3,10C6.1,10.6,6,11.3,6,12" stroke-linejoin="square" stroke-linecap="butt"/>
+<path data-cap="butt" data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M18,12c0-3.3-2.7-6-6-6
+	c-0.7,0-1.4,0.1-2,0.3" stroke-linejoin="square" stroke-linecap="butt"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="10.6" y1="10.6" x2="7" y2="7" stroke-linejoin="square"/>
+<circle data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="12" cy="12" r="2" stroke-linejoin="square"/>
+<circle fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="12" cy="12" r="11" stroke-linejoin="square"/>
+</g><g  transform="translate(156, 108)">
+<path data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M7,11.1V6c0-2.8,2.2-5,5-5h0
+	c2.8,0,5,2.2,5,5v5.1" stroke-linejoin="square" stroke-linecap="butt"/>
+<circle fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="12" cy="16" r="7" stroke-linejoin="square"/>
+<circle data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="12" cy="15" r="2" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="12" y1="17" x2="12" y2="19" stroke-linejoin="square"/>
+</g><g  transform="translate(204, 108)">
+<path data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M7,11.1V6c0-2.8,2.2-5,5-5h0
+	c2.8,0,5,2.2,5,5" stroke-linejoin="square" stroke-linecap="butt"/>
+<circle fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="12" cy="16" r="7" stroke-linejoin="square"/>
+<circle data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="12" cy="15" r="2" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="12" y1="17" x2="12" y2="19" stroke-linejoin="square"/>
+</g><g  transform="translate(252, 108)">
+<polyline data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" points="17.3,15.3 22,20 20,22 
+	15.3,17.3 " stroke-linejoin="square" stroke-linecap="butt"/>
+<circle fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="10" cy="10" r="9" stroke-linejoin="square"/>
+</g><g  transform="translate(300, 108)">
+<polyline data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" points="17.3,15.3 22,20 20,22 
+	15.3,17.3 " stroke-linejoin="square" stroke-linecap="butt"/>
+<circle fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="10" cy="10" r="9" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="10" y1="7" x2="10" y2="13" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="13" y1="10" x2="7" y2="10" stroke-linejoin="square"/>
+</g><g  transform="translate(348, 108)">
+<polyline data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" points="17.3,15.3 22,20 20,22 
+	15.3,17.3 " stroke-linejoin="square" stroke-linecap="butt"/>
+<circle fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="10" cy="10" r="9" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="13" y1="10" x2="7" y2="10" stroke-linejoin="square"/>
+</g><g  transform="translate(396, 108)">
+<polyline fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="20,5 20,23 4,23 
+	4,5 " stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="1" y1="5" x2="23" y2="5" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="12" y1="10" x2="12" y2="18" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="8" y1="10" x2="8" y2="18" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="16" y1="10" x2="16" y2="18" stroke-linejoin="square"/>
+<polyline fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="8,5 8,1 16,1 
+	16,5 " stroke-linejoin="square"/>
+</g><g  transform="translate(444, 108)">
+<polyline data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" points="4,9.3 4,22 10,22 10,17 
+	14,17 14,22 20,22 20,9.3 " stroke-linejoin="square" stroke-linecap="butt"/>
+<polyline data-cap="butt" data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" points="1,12 12,2 23,12 " stroke-linejoin="square" stroke-linecap="butt"/>
+<rect data-color="color-2" x="10" y="9" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="4" height="4" stroke-linejoin="square"/>
+</g><g  transform="translate(12, 156)">
+<polyline data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" points="22,2 7,14 7,21 10.6,16.7 " stroke-linejoin="square" stroke-linecap="butt"/>
+<polygon fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="2,10 22,2 18,22 
+	" stroke-linejoin="square"/>
+</g><g  transform="translate(60, 156)">
+<polyline fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="23,8 23,23 1,23 
+	1,8 " stroke-linejoin="square"/>
+<rect x="1" y="3" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="22" height="5" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="12" y1="1" x2="12" y2="5" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="6" y1="1" x2="6" y2="5" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="18" y1="1" x2="18" y2="5" stroke-linejoin="square"/>
+</g><g  transform="translate(108, 156)">
+<polyline fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="23,8 23,23 1,23 
+	1,8 " stroke-linejoin="square"/>
+<rect x="1" y="3" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="22" height="5" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="12" y1="1" x2="12" y2="5" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="6" y1="1" x2="6" y2="5" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="18" y1="1" x2="18" y2="5" stroke-linejoin="square"/>
+<polygon data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	14,11 10,11 6,11 6,15 6,19 10,19 14,19 14,15 18,15 18,11 " stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="10" y1="11" x2="10" y2="19" stroke-linejoin="square"/>
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	14,11 14,15 6,15 " stroke-linejoin="square"/>
+</g><g  transform="translate(156, 156)">
+<polyline fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="23,8 23,23 1,23 
+	1,8 " stroke-linejoin="square"/>
+<rect x="1" y="3" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="22" height="5" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="12" y1="1" x2="12" y2="5" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="6" y1="1" x2="6" y2="5" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="18" y1="1" x2="18" y2="5" stroke-linejoin="square"/>
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	7,16 10,19 17,12 " stroke-linejoin="square"/>
+</g><g  transform="translate(204, 156)">
+<path data-cap="butt" data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M9.3,13l3.7,6.2
+	c0.6,1,0.2,2.2-0.7,2.7l0,0c-1,0.6-2.2,0.2-2.7-0.7L4.7,13" stroke-linejoin="square" stroke-linecap="butt"/>
+<path data-cap="butt" data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M15.5,5C17.5,5.3,19,7,19,9
+	c0,2-1.5,3.7-3.5,4" stroke-linejoin="square" stroke-linecap="butt"/>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M7,5L3,5C1.9,5,1,6.8,1,9
+	c0,2.2,0.9,4,2,4h4" stroke-linejoin="square"/>
+<path data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M19,1c-3,0-5.5,1.6-6.9,4H7
+	C5.9,5,5,6.8,5,9c0,2.2,0.9,4,2,4h5.1c1.4,2.4,4,4,6.9,4" stroke-linejoin="square" stroke-linecap="butt"/>
+<ellipse fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="19" cy="9" rx="4" ry="8" stroke-linejoin="square"/>
+</g><g  transform="translate(252, 156)">
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	9,5 1,5 1,23 19,23 19,15 " stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="15" y1="5" x2="19" y2="9" stroke-linejoin="square"/>
+<polygon fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="11,17 7,17 7,13 
+	18,2 22,6 " stroke-linejoin="square"/>
+</g><g  transform="translate(300, 156)">
+<line data-cap="butt" data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" x1="3" y1="16" x2="8" y2="21" stroke-linejoin="square" stroke-linecap="butt"/>
+<line data-cap="butt" data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" x1="5.5" y1="18.5" x2="15.5" y2="8.5" stroke-linejoin="square" stroke-linecap="butt"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="15" y1="4" x2="20" y2="9" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="13" y1="6" x2="18" y2="11" stroke-linejoin="square"/>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M8,21l-6,1l1-6L16.6,2.4
+	c0.8-0.8,2-0.8,2.8,0l2.2,2.2c0.8,0.8,0.8,2,0,2.8L8,21z" stroke-linejoin="square"/>
+</g><g  transform="translate(348, 156)">
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M12,6c3.6-3.6,10-4,10-4
+	s-0.4,6.4-4,10c-3.6,3.6-8,2-8,2S8.4,9.6,12,6z" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="15" y1="9" x2="7" y2="17" stroke-linejoin="square"/>
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	21,15 21,23 1,23 1,3 9,3 " stroke-linejoin="square"/>
+</g><g  transform="translate(396, 156)">
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	19,7 12,14 5,7 " stroke-linejoin="square"/>
+<rect x="1" y="3" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="22" height="18" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="7" y1="15" x2="5" y2="17" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="17" y1="15" x2="19" y2="17" stroke-linejoin="square"/>
+
+</g><g  transform="translate(444, 156)">
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M18,4v12.5
+	c0,3.6-2.9,6.5-6.5,6.5h0C7.9,23,5,20.1,5,16.5v-11C5,3,7,1,9.5,1h0C12,1,14,3,14,5.5v10c0,1.4-1.1,2.5-2.5,2.5h0
+	C10.1,18,9,16.9,9,15.5V7" stroke-linejoin="square"/>
+</g><g  transform="translate(12, 204)">
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M17,1c-2.1,0-3.9,1.1-5,2.7
+	C10.9,2.1,9.1,1,7,1C3.7,1,1,3.7,1,7c0,6,11,15,11,15s11-9,11-15C23,3.7,20.3,1,17,1z" stroke-linejoin="square"/>
+</g><g  transform="translate(60, 204)">
+<path data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M21.1,12.1C22.3,10.3,23,8.6,23,7
+	c0-3.3-2.7-6-6-6c-2.1,0-3.9,1.1-5,2.7C10.9,2.1,9.1,1,7,1C3.7,1,1,3.7,1,7c0,6,11,15,11,15s1.1-0.9,2.6-2.3" stroke-linejoin="square" stroke-linecap="butt"/>
+<circle data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="18" cy="16" r="5" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="18" y1="14" x2="18" y2="18" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="16" y1="16" x2="20" y2="16" stroke-linejoin="square"/>
+</g><g  transform="translate(108, 204)">
+<path data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M21.1,12.1C22.3,10.3,23,8.6,23,7
+	c0-3.3-2.7-6-6-6c-2.1,0-3.9,1.1-5,2.7C10.9,2.1,9.1,1,7,1C3.7,1,1,3.7,1,7c0,6,11,15,11,15s1.1-0.9,2.6-2.3" stroke-linejoin="square" stroke-linecap="butt"/>
+<circle data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="18" cy="16" r="5" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="16" y1="16" x2="20" y2="16" stroke-linejoin="square"/>
+</g><g  transform="translate(156, 204)">
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	12,10 12,14 16,14 " stroke-linejoin="square"/>
+<line data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" x1="3" y1="23" x2="5.6" y2="20.4" stroke-linejoin="square" stroke-linecap="butt"/>
+<line data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" x1="21" y1="23" x2="18.4" y2="20.4" stroke-linejoin="square" stroke-linecap="butt"/>
+<circle fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="12" cy="14" r="9" stroke-linejoin="square"/>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M9.3,2.3C8.5,1.5,7.3,1,6,1
+	C3.2,1,1,3.2,1,6c0,0.8,0.2,1.5,0.5,2.2C3.2,5.2,6,3.1,9.3,2.3z" stroke-linejoin="square"/>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M14.7,2.3
+	C15.5,1.5,16.7,1,18,1c2.8,0,5,2.2,5,5c0,0.8-0.2,1.5-0.5,2.2C20.8,5.2,18,3.1,14.7,2.3z" stroke-linejoin="square"/>
+</g><g  transform="translate(204, 204)">
+<polyline fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="1,1 4,1 4,16 
+	23,16 " stroke-linejoin="square"/>
+<circle data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="6" cy="21" r="2" stroke-linejoin="square"/>
+<circle data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="21" cy="21" r="2" stroke-linejoin="square"/>
+<polyline fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="4,4 21,4 19,13 
+	4,13 " stroke-linejoin="square"/>
+</g><g  transform="translate(252, 204)">
+<line data-cap="butt" data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" x1="12" y1="1" x2="12" y2="10" stroke-linejoin="square" stroke-linecap="butt"/>
+<polyline data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	15,7 12,10 9,7 " stroke-linejoin="square"/>
+<polyline fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="1,1 4,1 4,16 
+	23,16 " stroke-linejoin="square"/>
+<circle data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="6" cy="21" r="2" stroke-linejoin="square"/>
+<circle data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" cx="21" cy="21" r="2" stroke-linejoin="square"/>
+<polyline fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="16,4 21,4 19,13 
+	4,13 " stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="4" y1="4" x2="8" y2="4" stroke-linejoin="square"/>
+</g><g  transform="translate(300, 204)">
+<path data-cap="butt" fill="none" stroke="#444444" stroke-width="2" stroke-miterlimit="10" d="M6,20l2.3,1.1C9.4,21.7,10.7,22,12,22
+	h7c1.1,0,2-0.9,2-2l1-8c0-1.1-0.9-2-2-2h-5V7c0-1.7-1-4-2.5-4.9C11.8,1.8,11,2.2,11,3v4l-5,6" stroke-linejoin="square" stroke-linecap="butt"/>
+<rect data-color="color-2" x="2" y="11" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="4" height="11" stroke-linejoin="square"/>
+</g><g  transform="translate(348, 204)">
+<rect x="1" y="2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="22" height="20" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="1" y1="6" x2="23" y2="6" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="6" y1="2" x2="6" y2="6" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="12" y1="11" x2="12" y2="17" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="15" y1="14" x2="9" y2="14" stroke-linejoin="square"/>
+</g><g  transform="translate(396, 204)">
+<rect x="1" y="2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="22" height="20" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="1" y1="6" x2="23" y2="6" stroke-linejoin="square"/>
+<line fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="6" y1="2" x2="6" y2="6" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="15" y1="14" x2="9" y2="14" stroke-linejoin="square"/>
+</g><g  transform="translate(444, 204)">
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="9" y1="9" x2="15" y2="9" stroke-linejoin="square"/>
+<line data-color="color-2" fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="12" y1="5" x2="12" y2="9" stroke-linejoin="square"/>
+<path fill="none" stroke="#444444" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M14,23h-4c-2.8,0-5-2.2-5-5
+	V6c0-2.8,2.2-5,5-5h4c2.8,0,5,2.2,5,5v12C19,20.8,16.8,23,14,23z" stroke-linejoin="square"/>
+</g></svg>
